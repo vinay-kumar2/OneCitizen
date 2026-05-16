@@ -236,15 +236,6 @@ Route::get('/duplicate-detection', [DuplicateDetectionController::class, 'index'
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*
-
-| Dashboard | Citizens List |
-|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Citizens](screenshots/citizens.png) |
-
-| Pension Schemes | Global Search |
-|---|---|
-| ![Schemes](screenshots/schemes.png) | ![Search](screenshots/search.png) |
 
 ---
 
@@ -279,7 +270,7 @@ Registration No: 12308901
 **Priyanshu**
 Registration No: 12307696
 **Vinay Kumar**
-Registration No: 1230
+Registration No: 12311109
 B.Tech Computer Science & Engineering
 Lovely Professional University, Jalandhar, Punjab
 
